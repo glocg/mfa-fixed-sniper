@@ -9,4 +9,5 @@
 
 # Congratulations, your sniper is now working. Don't forget to join our Discord server.
 ![Discord](https://discord.gg/imhatimi)
+
 ![](https://hits.sh/github.com/glocg/mfa-fixed-sniper.svg)
